@@ -1,5 +1,6 @@
-
-https://www.ted.com/talks/margaret_heffernan_dare_to_disagree
+---
+title: Hi!
+---
 
 
 ### Simon Sinek on Millenials in the workplace
