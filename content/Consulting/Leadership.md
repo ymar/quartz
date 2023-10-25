@@ -13,3 +13,16 @@
 
 
 
+Articles
+- [Forget Technical Debt: Here's How to Build Technical Wealth](https://review.firstround.com/forget-technical-debt-heres-how-to-build-technical-wealth)
+- [How to Hire Like Google](https://www.wired.com/2015/04/hire-like-google/)
+- [Taming the Mammoth: Let People's Opinions Run Your Life](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
+- [How to Give Feedback to People Who Cry, Yell, or Get Defensive](https://hbr.org/2016/09/how-to-give-feedback-to-people-who-cry-yell-or-get-defensive)
+- [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
+- [Coaching People Through the Change Curve](https://www.insights.com/resources/coaching-people-through-the-change-curve/)
+- [Managing Challenging People](https://leaddev.com/team/managing-challenging-people)
+- [The Hierarchy is Bullshit and Bad for Business](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/)
+- [Mastering Tech Lead Management](https://cpojer.net/posts/mastering-tech-lead-management)
+- [Inclusion in a Distributed World](https://cpojer.net/posts/inclusion-in-a-distributed-world)
+
+
