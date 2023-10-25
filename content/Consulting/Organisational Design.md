@@ -6,3 +6,5 @@
 - [Why change management is the key to Salesforce architecture](https://www.youtube.com/watch?v=9bG_mWeyrpk)
 - [How organisations are changing](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
 - [How internal capabilities evolve](https://www.cpj.fyi/how-internal-capabilities-evolve/)
+
+
