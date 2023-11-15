@@ -1,0 +1,7 @@
+- [Simon Doty Rethorical Radio](https://soundcloud.com/simondoty/sets/rhetorical-radio)
+- [M.O.S.: THe Soulcast](https://soundcloud.com/melodyofthesoul/sets/the-soulcast)
+- [The Anjunadeep Edition](https://soundcloud.com/anjunadeep/sets/the-anjunadeep-edition)
+- [Darper: Electric Fiction](https://soundcloud.com/electricfiction/sets/darper-mixes)
+- [Electronic Groove Podcast](https://soundcloud.com/egpodcast/sets/eg-podcast)
+- [Schirmchendrink](https://soundcloud.com/schirmchendrink/tracks)
+- [Joris Voorn: Spectrum Radio](https://soundcloud.com/joris-voorn/sets/spectrum-radio-by-joris-voorn)
