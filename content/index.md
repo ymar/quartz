@@ -3,14 +3,16 @@ title: Hi!
 ---
 ### Consulting
 - [[Fundamentals]]
-- [[Career & Personal Development]]
+- [[Influencing]]
 - [[Leadership]]
-- [[Organisational Design]]
-- [[Team & Culture]]
-
+- [[Listening]]
+- [[Meetings]]
+- [[Performance Reviews and Goal-setting]]
+- [[Team Building]]
 
 ### Customer Experience
 - [[Customer Experience/Customer Experience|Customer Experience]]
 
 ### Salesforce
 - [[Salesforce Marketing Cloud]]
+- [[Salesforce Platform]]
